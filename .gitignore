@@ -1,0 +1,10 @@
+.vs/
+x64/
+Debug/
+*.sln
+*.vcxproj*
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.suo
